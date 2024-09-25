@@ -1,4 +1,4 @@
-## amdiljak.github.io  
+# amdiljak.github.io  
 CTI-100 Respository  
 Angela Diljak   
 amdiljak@my.waketech.edu  
